@@ -21,13 +21,16 @@ void main() {
 
   randomX.destroy();
 }
-
 ```
 
 ## Project Source Code
 
 This package repository is inside the `RandomX` code,
 to help to compile everything with the dart wrapper.
+
+## Project Build
+
+See the script `build-all.sh`, that can build `librandomx` and `libwrapper_randomx`.
 
 ## RandomX Original Project
 
